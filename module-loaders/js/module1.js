@@ -12,3 +12,8 @@
 // })
 //
 // server.listen(3000);
+
+
+var $ = require ('jquery')
+
+$('h1').html('new text')
